@@ -1,0 +1,29 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login__inputs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form button {
+  background-color: rgb(65, 27, 33);
+  color: white;
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 300px;
+}
